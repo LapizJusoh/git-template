@@ -1,3 +1,3 @@
 # Webpack-Config-Template for Ease of Use
 
-Just a template, ignore me-
+Before running, please use 'npm install' in the terminal to download all necessary modules.
