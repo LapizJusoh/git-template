@@ -1,3 +1,3 @@
-# To-Do List Live Active Project
+# Webpack-Config-Template for Ease of Use
 
-Before running, please use 'npm install' in the terminal to download all necessary modules.# git-template
+Just a template, ignore me-
